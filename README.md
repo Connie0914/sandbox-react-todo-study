@@ -1,2 +1,2 @@
-# sandbox-react-todo-study
+# react-todo-sandbox
 Created with CodeSandbox
